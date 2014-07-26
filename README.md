@@ -15,6 +15,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ### Solution Description
 The solution approaches tidying the Samsung data very matter-of-factly:
+
 1. Load in the activity types
 2. Load in the features list
 3. Load in the test and training datasets
