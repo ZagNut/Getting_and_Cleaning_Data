@@ -1,5 +1,5 @@
 ##### output codebook
-The resultant dataset from the run_analysis.R script is an average of the measurements taken by subject and activity type for mean and standard deviation measurements in the Galaxy Samsung S sample.
+The resultant dataset from the run_analysis.R script is an average of the measurements taken by subject and activity type for mean and standard deviation measurements in the Samsung Galaxy S sample.
 
 Per the sample's own codebook:
 
